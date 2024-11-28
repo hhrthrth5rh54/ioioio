@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aventura na Floresta</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="historia">
+        Você se encontra em uma floresta escura. À sua frente, há duas trilhas: uma para a esquerda, coberta por folhas secas, e outra para a direita, com um riacho cristalino. Qual caminho você escolhe?
+    </div>
+    <button onclick="escolherTrilha(1)">Esquerda</button>
+    <button onclick="escolherTrilha(2)">Direita</button>
+    <script src="script.js"></script>
+</body>
+</html>
